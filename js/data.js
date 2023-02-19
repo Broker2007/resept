@@ -1,7 +1,7 @@
 let cards = [
     {
         name: "ЗАКУСКИ",
-        src: "url(../assets/2.jpg)",
+        src: "../assets/2.jpg",
         dish:[
             {
                 name_d:"ГОВЯЖИЙ СТУДЕНЬ",
@@ -139,7 +139,7 @@ let cards = [
     },
     {
         name: "СУПЫ",
-        src: "url(../assets/3.jpg)",
+        src: "../assets/3.jpg",
         dish:[
             {
                 name_d:"ЩИ С ГОВЯЖЬИМИ ГОЛЯШКАМИ",
@@ -271,7 +271,7 @@ let cards = [
     },
     {
         name: "ГОРЯЧЕЕ",
-        src: "url(../assets/1.jpg)",
+        src: "../assets/1.jpg",
         dish:[
             {
                 name_d:"СОЛЯНКА НА СКОВОРОДЕ",
@@ -438,7 +438,7 @@ let cards = [
     },
     {
         name: "СОУСЫ",
-        src: "url(../assets/6.jpg)",
+        src: "../assets/6.jpg",
         dish:[
             {
                 name_d:"СОУС ГРИБНОЙ",
@@ -507,7 +507,7 @@ let cards = [
     },
     {
         name: "ТЕСТО. ВЫПЕЧКА",
-        src: "url(../assets/4.jpg)",
+        src: "../assets/4.jpg",
         dish:[
             {
                 name_d:"ЗАКВАСКА РЖАНАЯ НА ХМЕЛЕ",
@@ -608,7 +608,7 @@ let cards = [
     },
     {
         name: "КАШИ",
-        src: "url(../assets/5.jpg)",
+        src: "../assets/5.jpg",
         dish:[
             {
                 name_d:"ПЕРЛОВАЯ КАША РАССЫПЧАТАЯ",
